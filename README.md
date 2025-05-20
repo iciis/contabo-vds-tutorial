@@ -10,6 +10,10 @@ By the end of this tutorial, you’ll have a fully set-up **Contabo Dedicated Se
 
 ## What is a Contabo Dedicated Server (VDS)?
 
+<a href="https://afftrend.com/contabo">
+  <img src="https://drive.google.com/uc?export=view&id=1nwzQLJUsiyazWu1jXat4j8mS7ng913ro"  alt="Contabo Vps Homepage">
+</a>
+
 A **Contabo Dedicated Server (VDS)** is a hosting solution that gives you a **dedicated portion of a physical server**. Unlike shared hosting, where multiple users share the same server, a **VDS** allows you to have your own isolated part of the server, providing you with more control, better performance, and increased security.
 
 Here’s what you need to know about Contabo VDS:
