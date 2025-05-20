@@ -10,8 +10,8 @@ By the end of this tutorial, you’ll have a fully set-up **Contabo Dedicated Se
 
 ## What is a Contabo Dedicated Server (VDS)?
 
-<a href="https://afftrend.com/contabo">
-  <img src="https://drive.google.com/uc?export=view&id=1nwzQLJUsiyazWu1jXat4j8mS7ng913ro"  alt="Contabo Vps Homepage">
+<a href="https://afftrend.com/contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=1VPqrdeaibvmyVXHK3DSuTMLrpzIhe5yq"  alt="Contabo VDS Homepage">
 </a>
 
 A **Contabo Dedicated Server (VDS)** is a hosting solution that gives you a **dedicated portion of a physical server**. Unlike shared hosting, where multiple users share the same server, a **VDS** allows you to have your own isolated part of the server, providing you with more control, better performance, and increased security.
@@ -39,6 +39,75 @@ Contabo is a reliable and cost-effective provider known for its impressive perfo
 - **Affordable Pricing**: Compared to other providers, Contabo’s pricing is highly competitive, making it a great choice for businesses looking to save on hosting costs.
 - **Customizable Plans**: You can choose from a variety of configurations, from entry-level to high-end servers, based on your needs.
 - **24/7 Support**: Contabo offers robust customer support to help you through any issues, ensuring your server runs smoothly.
+
+## Features of Contabo VDS
+
+**1. Deploy Your Perfect Image. Instantly Anywhere**
+
+<a href="https://afftrend.com/contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=1ja7FcP6qMMutOHcDojjddor18mcHkiSD"  alt="Contabo VDS Custom Images">
+</a>
+
+Contabo allows you to deploy your custom server images using .iso or .qcow2 files instantly. Whether you're using the web interface or the API, you can spin up virtual instances on your terms, offering total control and flexibility for specialized development or production environments.
+
+**2. API to Automate Cloud Provisioning & Management**
+
+<a href="https://afftrend.com/Contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=1pUpUAk0KIPU8jAhGcmboj1tBUhQLF8TY"  alt="Contabo VDS API">
+</a>
+
+With Contabo’s powerful API, you gain full programmatic access to manage cloud resources. This feature lets you integrate with DevOps tools, automate provisioning, and manage workloads seamlessly—ensuring that developers can execute deployments or scale infrastructure efficiently, without relying on manual interventions.
+
+**3. Manage Your Servers Directly From the Command Line**
+
+<a href="https://afftrend.com/contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=1ICwOVUdKAirZEaja2ri9Faod68MEczVz"  alt="Contabo VDS CLI">
+</a>
+
+The Contabo CLI (Command Line Interface) allows direct server management via terminal. With easy syntax and compatibility across Windows, Linux, and macOS, developers and sysadmins can perform infrastructure tasks, automate operations, and control cloud services quickly—streamlining their workflow without relying on web dashboards.
+
+**4. Automate Virtual Machine Initialization with Cloud-Init**
+
+<a href="https://afftrend.com/Contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=191C-0PGZmU7t-EP5HcsctvHyRSJ33UiJ"  alt="Contabo VDS Init">
+</a>
+
+Cloud-init in Contabo offers automated VM deployment with secure access. It allows full automation of configuration and provisioning of instances via API. Developers can customize instances quickly, reuse configurations, and manage user access securely using public keys and initialization scripts, streamlining deployment and access control.
+
+**5. Seamless Integration with CI/CD Tools**
+
+Contabo supports smooth integration with CI/CD platforms, helping automate the entire development lifecycle from code to production. This empowers DevOps teams to build, test, and deploy faster. The result is quicker iterations, fewer errors, and better efficiency in managing application updates and infrastructure.
+
+**6. Custom Image Backups & Snapshots**
+
+Contabo provides backup and snapshot features for your custom images. These allow you to restore environments effortlessly during updates or system failures. Ideal for disaster recovery, cloning, or migrating workloads, this feature enhances reliability for businesses managing mission-critical applications and custom software stacks.
+
+<a href="https://afftrend.com/contabovds"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
+## Pricing of Contabo VDS
+<a href="https://afftrend.com/contabovds">
+  <img src="https://drive.google.com/uc?export=view&id=1UJ2nP1g1_ENKFIErPHsNmUl8zW0s8h5z"  alt="Contabo VDS Pricing">
+</a>
+
+| **Plan Name**    | **Price (per month)** | **Original Price** | **Key Features**                                         | **Notes**                             |
+| ---------------- | --------------------- | ------------------ | -------------------------------------------------------- | ------------------------------------- |
+| **Cloud VPS 10** | €4.56                 | €5.36              | Ideal for basic needs. Independent computing instance.   | ✅ New & Improved<br>✅ No Setup Fee    |
+| **Cloud VPS 20** | €7.08                 | €8.33              | 8 CPU Cores & 20 GB RAM. Best for medium-high workloads. | 🔥 Unbeatable Value<br>✅ No Setup Fee |
+| **Cloud VDS XL** | €98.06                | €132.56            | Dedicated server power with VPS flexibility.             | ⚡ No Setup & Reduced Location Fees    |
+
+Whether you're launching a new project, scaling your business, or looking for an affordable entry into cloud hosting, our bestsellers have you covered. The Cloud VPS 10 is the perfect starter pack—low cost, no setup fee, and fully independent. It's ideal for students, developers, and small businesses testing the waters of online infrastructure.
+
+Looking for more power? The Cloud VPS 20 is a major upgrade with 8 CPU cores and 20 GB RAM. This plan is designed to handle high-performance applications, web hosting environments, or heavier workloads—without breaking the bank. It combines unbeatable performance with unbeatable pricing.
+
+And for those needing something closer to bare-metal performance, the Cloud VDS XL offers the strength of a dedicated server with the flexibility and ease of a VPS. It's provisioned instantly and comes with no setup fees or location charges, making it a smart choice for professionals and growing enterprises that need reliable, scalable infrastructure.
+
+All plans are designed with simplicity and power in mind—no hidden charges, no setup fees, and the ability to get started within minutes. From startups to power users, there's a solution crafted to fit every kind of demand.
+
+<a href="https://afftrend.com/contabovds"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ### Setting Up a Contabo Dedicated Server
 
