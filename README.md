@@ -109,7 +109,7 @@ All plans are designed with simplicity and power in mind—no hidden charges, no
 <img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
 </a>
 
-##Setting Up a Contabo Dedicated Server
+## Setting Up a Contabo Dedicated Server
 
 ### Step 1: Signing Up for Contabo
 
