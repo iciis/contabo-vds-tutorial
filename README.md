@@ -109,7 +109,7 @@ All plans are designed with simplicity and power in mind—no hidden charges, no
 <img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
 </a>
 
-### Setting Up a Contabo Dedicated Server
+##Setting Up a Contabo Dedicated Server
 
 ### Step 1: Signing Up for Contabo
 
@@ -194,35 +194,35 @@ Regular maintenance can keep your server running smoothly and efficiently. Perfo
 
 ## FAQs
 
-**What is a Contabo VDS?**
+**1. What is a Contabo VDS?**
 
 A Contabo VDS (Virtual Dedicated Server) gives you a private section of a physical server, offering better performance, full control, and more resources than shared hosting, at a more affordable price than a full dedicated server.
 
-**Is Contabo VDS good for beginners?**
+**2. Is Contabo VDS good for beginners?**
 
 Yes, Contabo VDS is beginner-friendly. It offers an easy setup, pre-installed OS options, and a control panel. Plus, their customer support can help you with basic configuration and technical questions.
 
-**Which OS can I install on Contabo VDS?**
+**3. Which OS can I install on Contabo VDS?**
 
 You can choose from popular Linux distributions like Ubuntu, Debian, CentOS, or install Windows Server. Contabo lets you select your preferred OS during setup or reinstall it later through the control panel.
 
-**Can I upgrade my VDS later?**
+**4. Can I upgrade my VDS later?**
 
 Yes, Contabo allows easy upgrades. You can increase your server's RAM, storage, or CPU anytime without losing your data. Just contact support or manage upgrades through the customer dashboard.
 
-**How do I access my Contabo VDS?**
+**5. How do I access my Contabo VDS?**
 
 After purchase, you'll receive login details. You can access Linux servers via SSH and Windows servers via Remote Desktop (RDP). Use these credentials to connect and manage your server directly.
 
-**How do I test the speed of my VDS?**
+**6. How do I test the speed of my VDS?**
 
 Use tools like Speedtest CLI, Pingdom, or GTmetrix to check your server’s speed. These tools help you measure download/upload rates, response time, and overall performance from different global locations.
 
-**Is Contabo VDS secure?**
+**7. Is Contabo VDS secure?**
 
 Yes, it’s secure as long as you configure it properly. Use a strong password, enable a firewall, update your OS regularly, and consider installing additional security tools like Fail2Ban or antivirus software.
 
-**What if I face technical issues?**
+**8. What if I face technical issues?**
 
 Contabo provides 24/7 customer support via email. Their team can assist with hardware issues, network problems, or basic configurations. For advanced issues, you may need technical knowledge or hire a server expert.
 
